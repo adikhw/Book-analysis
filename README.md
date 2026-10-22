@@ -45,19 +45,6 @@ Dibuat sebagai latihan dasar data science: membaca CSV ke DataFrame, cleaning, `
 
 Library bawaan Python yang dipakai: `pathlib`, `logging`, `argparse`, `sys`.
 
-## 🔄 Alur Program
-
-```mermaid
-flowchart LR
-    A[📄 books.csv] --> B[load_books]
-    B --> C[check_quality]
-    C --> D[clean_df]
-    D --> E[analysis.py<br/>ringkasan statistik]
-    D --> F[charts.py<br/>grafik PNG]
-    E --> G[🖥️ Terminal]
-    F --> H[🖼️ output/charts/]
-```
-
 ## 🚀 Instalasi
 
 ```bash
