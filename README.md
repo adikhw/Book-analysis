@@ -146,7 +146,6 @@ Book-analysis/
 ## 🔗 Project Terkait
 
 - **Project 3:** Web Scraper, sumber `books.csv`
-- **Project 5:** Capstone, memakai hasil analisis ini sebagai referensi
 
 ---
 
