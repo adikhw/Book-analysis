@@ -1,0 +1,5 @@
+.venv/
+output/
+__pycache__/
+.pytest_cache/
+try_manual.py
